@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "7eedecfe532433e19007100e96ac84e5"
+build_time: [1549697301, 563738000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/CalculatorIOSBootCampPA1/CalculatorIOSBootCampPA1/ViewController.swift": [1549697301, 0]
+  "/Users/Thomas_Stuart/Desktop/Xcode Project folder 1/CalculatorIOSBootCampPA1/CalculatorIOSBootCampPA1/AppDelegate.swift": [1549221535, 0]
